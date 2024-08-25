@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px;
+}
+
+.url-list {
+  margin-top: 20px;
+}
+
+.url-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+.url-item a {
+  font-weight: bold;
+  color: #333;
+}
